@@ -1,5 +1,7 @@
 # Bio
 
+## Currently working on 
+Trying to bake a custom solution to a banking customer based on the IaC framework described [here](https://cloud.google.com/recommender/docs/tutorial-iac) utilizing the [framework/library](https://github.com/GoogleCloudPlatform/professional-services/tree/main/tools/asset-inventory).
 
 
 
